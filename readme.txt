@@ -21,6 +21,6 @@ Contenido Adicional
 ----------------------------------
 -- resources/psp data  : Datos del proceso PSP
 -- resources/psp forms : Contiene Defect Log, PSP1 Project Plan Summary, Time Log, diseño conceptual, estandar de codificación, estandar de conteo, checklist de diseño, checklist de codificación, PIP y reporte de pruebas.
--- resources/test: Contiene la evidencia de las pruebas realizadas, asi como el proceso para descargar el repositorio desde GitHub y su posterior ejecución.
+-- resources/test: Contiene la evidencia de las pruebas realizadas, archivos de prueba, asi como el proceso para descargar el repositorio desde GitHub y su posterior ejecución.
 
 
